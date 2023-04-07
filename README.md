@@ -1,7 +1,5 @@
 <li>👋 Hi, I’m Anna Koval! I live in Kyiv, Ukraine 💛💙</li>
 <li>👀 I’m interested in coding</li>
-<li>🌱 Currently, I am a front-end development student at Mate Academy</li>
-<li>💞 I would appreciate an opportunity to broaden my knowledge by working with front-end developers as a trainee</li>
 <li>📫 How to reach me: e-mail: annasergkov@gmail.com</li>
 
 <!---
